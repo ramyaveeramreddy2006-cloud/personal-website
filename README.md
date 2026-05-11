@@ -76,4 +76,4 @@ The portfolio now includes a React-powered admin dashboard that can manage proje
 - MongoDB is required to seed and load live project data.
 - If MongoDB is unavailable, the server will still start but project data may not load.
 - Use `npm run dev` for fast local development.
-Portfolio website updated
+Second repository updated
